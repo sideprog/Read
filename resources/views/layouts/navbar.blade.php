@@ -10,18 +10,15 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">Project name</a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="#about">Surligner</a></li>
                 <li><a href="#about">Annoter</a></li>
                 </li>
             </ul>
-        </div>
-
-
-
-
-        <div id="navbar" class="navbar-collapse collapse navbar-right">
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-right">
                 <li><a href="#about">Nouvel article</a></li>
                 <li class="active"><a href="#">Liste articles</a></li>
                 <li><a href="#about">Déconnexion</a></li>
