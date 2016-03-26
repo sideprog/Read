@@ -19,8 +19,8 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#about">Nouvel article</a></li>
-                <li class="active"><a href="#">Liste articles</a></li>
+                <li class="{{set_active('new')}}"><a href="/new">Nouvel article</a></li>
+                <li class="{{set_active('articles')}}"><a href="/articles">Liste articles</a></li>
                 <li><a href="#about">Déconnexion</a></li>
             </ul>
         </div>

@@ -19,5 +19,8 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/article1', function () {
         return view('article1');
     });
+    Route::get('/new', function () {
+        return view('new_article');
+    });
 
 });
