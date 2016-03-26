@@ -21,9 +21,7 @@
 <body>
 @include('layouts.navbar')
 <div class="container-fluid">
-    <div class="row">
-        @yield('content')
-    </div>
+    @yield('content')
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
