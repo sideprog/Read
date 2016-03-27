@@ -13,7 +13,9 @@
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">
+
             <ul class="nav navbar-nav">
+                <li><img src="images/highlight_yellow.png"></li>
                 <li><a href="#about">Surligner</a></li>
                 <li><a href="#about">Annoter</a></li>
                 </li>
